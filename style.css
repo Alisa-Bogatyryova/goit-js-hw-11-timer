@@ -1,0 +1,20 @@
+.timer {
+  display: flex;
+  justify-content: center;
+}
+.field {
+  padding: 50px;
+  border: 1px solid rgb(255, 0, 0);
+  color: black;
+  background-color: grey;
+}
+
+.btn__start {
+  border: 1px solid rgb(255, 0, 0);
+  padding: 20px;
+  background-color: grey;
+  color: black;
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 20px 45%;
+}
